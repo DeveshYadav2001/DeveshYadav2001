@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Computer Science 
 - 🌱 I’m currently learning ...C,Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...yadavdevesh990@gamil.com or whats app on 8769825718
+- 📫 How to reach me ...yadavdevesh990@gamil.com 
 
 <!---
 DeveshYadav2001/DeveshYadav2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
